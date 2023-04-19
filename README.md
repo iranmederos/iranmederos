@@ -2,6 +2,8 @@
 
 My focus is to develop high quality and scalable software solutions, always ensuring compliance with coding standards and software development best practices. I am experienced in teamwork and effective communication with team members and stakeholders.
 
+I am always willing to use my skills and passion in search of new knowledge and new challenges.
+
 ##
 ![gif](https://i.pinimg.com/originals/bb/5e/47/bb5e47498772c0628f6dc7f26a6af28c.gif)
 
