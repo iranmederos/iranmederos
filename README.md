@@ -1,6 +1,6 @@
 ## I´m Iran Mederos - Software Developer 💻👨‍💻
 
-My focus is to develop high quality and scalable software solutions, always ensuring compliance with coding standards and software development best practices. I am experienced in teamwork and effective communication with team members and stakeholders.
+My focus is to develop high quality and scalable software solutions, always ensuring compliance with coding standards and software development best practices, or that's what I try to do. I am experienced in teamwork and effective communication with team members and stakeholders.
 
 I am always willing to use my skills and passion in search of new knowledge and new challenges.
 
