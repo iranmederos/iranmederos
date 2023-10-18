@@ -7,20 +7,7 @@ I am always willing to use my skills and passion in search of new knowledge and 
 ##
 ![gif](https://i.pinimg.com/originals/bb/5e/47/bb5e47498772c0628f6dc7f26a6af28c.gif)
 
-<!--
-**iranmederos/iranmederos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## Technologies:
 ### Programming languages:
@@ -45,5 +32,7 @@ Here are some ideas to get you started:
  ## Link:
  You can contact me for these links<br><br>
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/iran-mederos/)
-   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=101010)](mailto:iranmederos@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=101010)](mailto:iranmederos@gmail.com)
+##
+  ![](https://www.codewars.com/users/iranmederos/badges/large)
   
